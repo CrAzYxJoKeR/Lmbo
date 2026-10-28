@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Outline -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2.5"
+        android:fillColor="#1F2937"
+        android:pathData="M 54,24 L 78,34 L 78,54 C 78,70 54,84 54,84 C 54,84 30,70 30,54 L 30,34 Z" />
+
+    <!-- Left Candlestick (Green Bullish) -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="1.5"
+        android:pathData="M 43,38 L 43,68" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 40,44 H 46 V 62 H 40 Z" />
+
+    <!-- Center Candlestick (Amber Alert) -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1.5"
+        android:pathData="M 54,34 L 54,72" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 51,40 H 57 V 58 H 51 Z" />
+
+    <!-- Right Candlestick (Emerald Safe) -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="1.5"
+        android:pathData="M 65,40 L 65,66" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 62,46 H 68 V 60 H 62 Z" />
+</vector>

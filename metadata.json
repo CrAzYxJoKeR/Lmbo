@@ -1,0 +1,8 @@
+{
+  "name": "LMBO Gatekeeper",
+  "description": "Forex & Binary Options trading discipline, session risk enforcement, and 30-topic psychological gatekeeper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
